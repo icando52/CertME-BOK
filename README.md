@@ -1,9 +1,11 @@
-# Leben in Deutschland
-
-The app is designed to offer an easy and interactive way to prepare yourself for the test "Leben in Deutschland" (LiD). The oficial Einbürgerungstest.
+# CertM BOK
+# based from Leben in Deutschland
+# (c) Phillip M. Sparks
+# November 2023
+The app is designed to offer an easy and interactive way to prepare yourself for the the BOK, Body of Knowledge needed for certifications.
 
 Main features:
-- Select your Bundesland
+- Select your BOK
 - Filter questions by topic
 - Search for questions with a specifc keyword
 - Use your own tag to identify questions to come back later
@@ -15,4 +17,5 @@ Main features:
 - Statistics dynamic lists
 - Sort list by: Question number, Question rating or Shuffle.
 
-#AFG #LiD #Einbürgerungstest
+# BOK-0000
+
