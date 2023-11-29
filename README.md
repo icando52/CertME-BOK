@@ -1,6 +1,6 @@
 # CertME BOK
 # based from Leben in Deutschland
-# (c) Phillip M. Sparks
+# 
 # November 2023
 The app is designed to offer an easy and interactive way to prepare yourself for the the BOK, Body of Knowledge needed for certifications.
 
