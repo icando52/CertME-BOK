@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LebenInDeutschland.iml" filepath="$PROJECT_DIR$/.idea/modules/LebenInDeutschland.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FragenSpider/LebenInDeutschland.FragenSpider.iml" filepath="$PROJECT_DIR$/.idea/modules/FragenSpider/LebenInDeutschland.FragenSpider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FragenSpider/LebenInDeutschland.FragenSpider.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FragenSpider/LebenInDeutschland.FragenSpider.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FragenSpider/LebenInDeutschland.FragenSpider.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FragenSpider/LebenInDeutschland.FragenSpider.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LebenInDeutschland.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LebenInDeutschland.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LebenInDeutschland.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LebenInDeutschland.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LebenInDeutschland.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LebenInDeutschland.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LebenInDeutschland.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LebenInDeutschland.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox/LebenInDeutschland.sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox/LebenInDeutschland.sandbox.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox/LebenInDeutschland.sandbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox/LebenInDeutschland.sandbox.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox/LebenInDeutschland.sandbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox/LebenInDeutschland.sandbox.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CertME-BOK.iml" filepath="$PROJECT_DIR$/.idea/modules/CertME-BOK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FragenSpider/CertME-BOK.FragenSpider.iml" filepath="$PROJECT_DIR$/.idea/modules/FragenSpider/CertME-BOK.FragenSpider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FragenSpider/CertME-BOK.FragenSpider.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FragenSpider/CertME-BOK.FragenSpider.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FragenSpider/CertME-BOK.FragenSpider.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FragenSpider/CertME-BOK.FragenSpider.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CertME-BOK.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CertME-BOK.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CertME-BOK.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CertME-BOK.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CertME-BOK.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CertME-BOK.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CertME-BOK.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CertME-BOK.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox/CertME-BOK.sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox/CertME-BOK.sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox/CertME-BOK.sandbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox/CertME-BOK.sandbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox/CertME-BOK.sandbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox/CertME-BOK.sandbox.test.iml" />
     </modules>
   </component>
 </project>
