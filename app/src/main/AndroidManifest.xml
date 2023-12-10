@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.adalbero.app.lebenindeutschland">
+    package="com.fiovex.certmebok">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -12,7 +12,7 @@
 
 
     <application
-        android:name=".controller.AppController"
+        android:name="com.fiovex.certmebok.controller.AppController"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -22,7 +22,7 @@
         tools:ignore="GoogleAppIndexingWarning"
         >
         <activity
-            android:name=".ui.main.MainActivity"
+            android:name="com.fiovex.certmebok.ui.main.MainActivity"
             android:exported="true"
             android:configChanges="keyboardHidden|orientation">
             <intent-filter>
@@ -32,17 +32,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.exam.ExamActivity"
+            android:name="com.fiovex.certmebok.ui.exam.ExamActivity"
             android:exported="true"
-            android:parentActivityName=".ui.main.MainActivity" />
+            android:parentActivityName="com.fiovex.certmebok.ui.main.MainActivity" />
         <activity
-            android:name=".ui.question.QuestionActivity"
+            android:name="com.fiovex.certmebok.ui.question.QuestionActivity"
             android:exported="true"
-            android:parentActivityName=".ui.exam.ExamActivity" />
+            android:parentActivityName="com.fiovex.certmebok.ui.exam.ExamActivity" />
         <activity
-            android:name=".ui.settings.SettingsActivity"
+            android:name="com.fiovex.certmebok.ui.settings.SettingsActivity"
             android:exported="true"
-            android:parentActivityName=".ui.main.MainActivity" />
+            android:parentActivityName="com.fiovex.certmebok.ui.main.MainActivity" />
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-6002824579891362~7981010102"/>

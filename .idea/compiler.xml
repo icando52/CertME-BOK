@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="11">
+      <module name="Android.app" target="17" />
       <module name="CertME-BOK.app" target="17" />
       <module name="FragenSpider" target="1.7" />
       <module name="sandbox" target="1.7" />

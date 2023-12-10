@@ -2,7 +2,7 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <PreferenceCategory android:title="Preferences">
 
-        <com.adalbero.app.lebenindeutschland.ui.settings.LandDialogPreference
+        <com.fiovex.certmebok.ui.settings.LandDialogPreference
             android:key="pref.land"
             android:summary="%s"
             android:title="Bundesland" />

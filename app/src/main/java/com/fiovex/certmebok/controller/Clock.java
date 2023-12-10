@@ -1,0 +1,120 @@
+package com.fiovex.certmebok.controller;
+
+import android.os.CountDownTimer;
+import androidx.core.content.ContextCompat;
+import android.view.View;
+import android.widget.TextView;
+
+import com.fiovex.certmebok.R;
+
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+/**
+ * Created by Adalbero on 28/05/2017.
+ */
+
+public class Clock {
+    private static final String KEY_CLOCK_TIME = "exam.result.mCountDouwn.time";
+    private static final String KEY_CLOCK_STOP = "exam.result.mCountDouwn.stop";
+    private static final String KEY_CLOCK_DEFAULT = "param.timer";
+
+    private TextView mClockView;
+    private int mTime;
+    private CountDownTimer mCountDown;
+    private int mDefaultTime;
+
+    public Clock(TextView clockView) {
+        mClockView = clockView;
+        mDefaultTime = Store.getInt(KEY_CLOCK_DEFAULT, 1 * 60 * 60);
+    }
+
+    public boolean start() {
+        boolean stop = Store.getInt(KEY_CLOCK_STOP, 0) == 1;
+
+        mTime = Store.getInt(KEY_CLOCK_TIME, mDefaultTime);
+        boolean isNew = mTime == mDefaultTime;
+        if (isNew) {
+            Store.setInt(KEY_CLOCK_TIME, mTime);
+        }
+
+        if (mCountDown != null) {
+            mCountDown.cancel();
+        }
+
+        if (stop) {
+            updateView();
+        } else {
+            Store.setInt(KEY_CLOCK_STOP, 0);
+            mCountDown = new CountDownTimer(mTime * 1000, 1000) {
+
+                @Override
+                public void onTick(long millisUntilFinished) {
+                    mTime = (int) (millisUntilFinished / 1000);
+                    if (Store.getInt(KEY_CLOCK_TIME, -1) != -1) {
+                        Store.setInt(KEY_CLOCK_TIME, mTime);
+                        updateView();
+                    }
+                }
+
+                @Override
+                public void onFinish() {
+                    mTime = 0;
+                    Store.setInt(KEY_CLOCK_TIME, mTime);
+                    updateView();
+                }
+            };
+
+            mCountDown.start();
+        }
+
+        return isNew;
+    }
+
+    public int getExamDuration() {
+        return 60 * 60 - mTime;
+    }
+
+    private String format(int timeInSec) {
+        Date date = new Date(timeInSec * 1000);
+        DateFormat formatter = new SimpleDateFormat(timeInSec > 60 * 60 ? "H:mm:ss" : "mm:ss");
+        String text = formatter.format(date);
+
+        return text;
+    }
+
+    private void updateView() {
+        boolean stop = Store.getInt(KEY_CLOCK_STOP, 0) == 1;
+
+        mClockView.setText(format(mTime));
+        if (stop || isTimout()) {
+            mClockView.setTextColor(ContextCompat.getColor(mClockView.getContext(), R.color.colorNotAnswerd));
+        }
+
+        if (isTimout()) {
+            TextView mResultView = (TextView) mClockView.getRootView().findViewById(R.id.view_result);
+            if (mResultView != null) {
+                mResultView.setText("Time Out");
+                mResultView.setVisibility(View.VISIBLE);
+                mResultView.setTextColor(ContextCompat.getColor(mClockView.getContext(), R.color.colorWrong));
+            }
+        }
+    }
+
+    public void pause() {
+        if (mCountDown != null)
+            mCountDown.cancel();
+    }
+
+    public void stop() {
+        Store.setInt(KEY_CLOCK_STOP, 1);
+        if (mCountDown != null)
+            mCountDown.cancel();
+        updateView();
+    }
+
+    public boolean isTimout() {
+        return mTime == 0;
+    }
+}

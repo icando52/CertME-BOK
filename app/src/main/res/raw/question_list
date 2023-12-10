@@ -1,15 +1,15 @@
 num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
-1;"Q1.1.1";".Ans1.1.1.a;.Ans1.1.1.b;.Ans1.1.1.c;.Ans1.1.1.d";a;1.1;"1.1";"1.1 DescriptionText";"1";uname q1.1.1
-2;"Q1.1.2";".Ans1.1.2.a;.Ans1.1.2.b;.Ans1.1.2.c;.Ans1.1.2.d";a;1.1;"1.1";"1.1 DescriptionText";"1";uname q1.1.2
-3;"Q1.1.3";".Ans1.1.3.a;.Ans1.1.3.b;.Ans1.1.3.c;.Ans1.1.3.d";a;1.1;"1.1";"1.1 DescriptionText";"1";uname q1.1.3
-4;"Q1.1.4";".Ans1.1.4.a;.Ans1.1.4.b;.Ans1.1.4.c;.Ans1.1.4.d";a;1.1;"1.1";"1.1 DescriptionText";"1";uname q1.1.4
-5;"Q1.1.5";".Ans1.1.5.a;.Ans1.1.5.b;.Ans1.1.5.c;.Ans1.1.5.d";a;1.1;"1.1";"1.1 DescriptionText";"1";uname q1.1.5
-6;"Q1.1.6";".Ans1.1.6.a;.Ans1.1.6.b;.Ans1.1.6.c;.Ans1.1.6.d";a;1.1;"1.1";"1.1 DescriptionText";"1";uname q1.1.6
-7;"Q1.1.7";".Ans1.1.7.a;.Ans1.1.7.b;.Ans1.1.7.c;.Ans1.1.7.d";a;1.1;"1.1";"1.1 DescriptionText";"1";uname q1.1.7
-8;"Q1.1.8";".Ans1.1.8.a;.Ans1.1.8.b;.Ans1.1.8.c;.Ans1.1.8.d";a;1.1;"1.1";"1.1 DescriptionText";"1";uname q1.1.8
-9;"Q1.1.9";".Ans1.1.9.a;.Ans1.1.9.b;.Ans1.1.9.c;.Ans1.1.9.d";a;1.1;"1.1";"1.1 DescriptionText";"1";uname q1.1.9
-10;"Q1.1.10";".Ans1.1.10.a;.Ans1.1.10.b;.Ans1.1.10.c;.Ans1.1.10.d";a;1.1;"1.1";"1.1 DescriptionText";"1";uname q1.1.10
-11;"Q1.2.1";".Ans1.2.1.a;.Ans1.2.1.b;.Ans1.2.1.c;.Ans1.2.1.d";a;1.2;"1.2";"1.2 DescriptionText";"1";uname q1.2.1
+1;"What is 2+2?";".Ans1.1.1.a;.Ans1.1.1.b;.Ans1.1.1.c;.Ans1.1.1.d";a;1.1;"1.1";"1.1 Compare and contrast various types of security controls.";"1";uname q1.1.1
+2;"Q1.1.2";".Ans1.1.2.a;.Ans1.1.2.b;.Ans1.1.2.c;.Ans1.1.2.d";a;1.1;"1.1";"1.1 Compare and contrast various types of security controls.";"1";uname q1.1.2
+3;"Q1.1.3";".Ans1.1.3.a;.Ans1.1.3.b;.Ans1.1.3.c;.Ans1.1.3.d";a;1.1;"1.1";"1.1 Compare and contrast various types of security controls.";"1";uname q1.1.3
+4;"Q1.1.4";".Ans1.1.4.a;.Ans1.1.4.b;.Ans1.1.4.c;.Ans1.1.4.d";a;1.1;"1.1";"1.1 Compare and contrast various types of security controls.";"1";uname q1.1.4
+5;"Q1.1.5";".Ans1.1.5.a;.Ans1.1.5.b;.Ans1.1.5.c;.Ans1.1.5.d";a;1.1;"1.1";"1.1 Compare and contrast various types of security controls.";"1";uname q1.1.5
+6;"Q1.1.6";".Ans1.1.6.a;.Ans1.1.6.b;.Ans1.1.6.c;.Ans1.1.6.d";a;1.1;"1.1";"1.1 Compare and contrast various types of security controls.";"1";uname q1.1.6
+7;"Q1.1.7";".Ans1.1.7.a;.Ans1.1.7.b;.Ans1.1.7.c;.Ans1.1.7.d";a;1.1;"1.1";"1.1 Compare and contrast various types of security controls.";"1";uname q1.1.7
+8;"Q1.1.8";".Ans1.1.8.a;.Ans1.1.8.b;.Ans1.1.8.c;.Ans1.1.8.d";a;1.1;"1.1";"1.1 Compare and contrast various types of security controls.";"1";uname q1.1.8
+9;"Q1.1.9";".Ans1.1.9.a;.Ans1.1.9.b;.Ans1.1.9.c;.Ans1.1.9.d";a;1.1;"1.1";"1.1 Compare and contrast various types of security controls.";"1";uname q1.1.9
+10;"Q1.1.10";".Ans1.1.10.a;.Ans1.1.10.b;.Ans1.1.10.c;.Ans1.1.10.d";a;1.1;"1.1";"1.1 Compare and contrast various types of security controls.";"1";uname q1.1.10
+11;"Q1.2.1";".Ans1.2.1.a;.Ans1.2.1.b;.Ans1.2.1.c;.Ans1.2.1.d";a;1.2;"1.2";"1.2 Summarize fundamental security concepts.";"1";uname q1.2.1
 12;"Q1.2.2";".Ans1.2.2.a;.Ans1.2.2.b;.Ans1.2.2.c;.Ans1.2.2.d";a;1.2;"1.2";"1.2 DescriptionText";"1";uname q1.2.2
 13;"Q1.2.3";".Ans1.2.3.a;.Ans1.2.3.b;.Ans1.2.3.c;.Ans1.2.3.d";a;1.2;"1.2";"1.2 DescriptionText";"1";uname q1.2.3
 14;"Q1.2.4";".Ans1.2.4.a;.Ans1.2.4.b;.Ans1.2.4.c;.Ans1.2.4.d";a;1.2;"1.2";"1.2 DescriptionText";"1";uname q1.2.4
@@ -19,7 +19,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 18;"Q1.2.8";".Ans1.2.8.a;.Ans1.2.8.b;.Ans1.2.8.c;.Ans1.2.8.d";a;1.2;"1.2";"1.2 DescriptionText";"1";uname q1.2.8
 19;"Q1.2.9";".Ans1.2.9.a;.Ans1.2.9.b;.Ans1.2.9.c;.Ans1.2.9.d";a;1.2;"1.2";"1.2 DescriptionText";"1";uname q1.2.9
 20;"Q1.2.10";".Ans1.2.10.a;.Ans1.2.10.b;.Ans1.2.10.c;.Ans1.2.10.d";a;1.2;"1.2";"1.2 DescriptionText";"1";uname q1.2.10
-21;"Q1.3.1";".Ans1.3.1.a;.Ans1.3.1.b;.Ans1.3.1.c;.Ans1.3.1.d";a;1.3;"1.3";"1.3 DescriptionText";"1";uname q1.3.1
+21;"Q1.3.1";".Ans1.3.1.a;.Ans1.3.1.b;.Ans1.3.1.c;.Ans1.3.1.d";a;1.3;"1.3";"1.3 Explain the importance of change management processes and the impact on security.";"1";uname q1.3.1
 22;"Q1.3.2";".Ans1.3.2.a;.Ans1.3.2.b;.Ans1.3.2.c;.Ans1.3.2.d";a;1.3;"1.3";"1.3 DescriptionText";"1";uname q1.3.2
 23;"Q1.3.3";".Ans1.3.3.a;.Ans1.3.3.b;.Ans1.3.3.c;.Ans1.3.3.d";a;1.3;"1.3";"1.3 DescriptionText";"1";uname q1.3.3
 24;"Q1.3.4";".Ans1.3.4.a;.Ans1.3.4.b;.Ans1.3.4.c;.Ans1.3.4.d";a;1.3;"1.3";"1.3 DescriptionText";"1";uname q1.3.4
@@ -29,7 +29,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 28;"Q1.3.8";".Ans1.3.8.a;.Ans1.3.8.b;.Ans1.3.8.c;.Ans1.3.8.d";a;1.3;"1.3";"1.3 DescriptionText";"1";uname q1.3.8
 29;"Q1.3.9";".Ans1.3.9.a;.Ans1.3.9.b;.Ans1.3.9.c;.Ans1.3.9.d";a;1.3;"1.3";"1.3 DescriptionText";"1";uname q1.3.9
 30;"Q1.3.10";".Ans1.3.10.a;.Ans1.3.10.b;.Ans1.3.10.c;.Ans1.3.10.d";a;1.3;"1.3";"1.3 DescriptionText";"1";uname q1.3.10
-31;"Q1.4.1";".Ans1.4.1.a;.Ans1.4.1.b;.Ans1.4.1.c;.Ans1.4.1.d";a;1.4;"1.4";"1.4 DescriptionText";"1";uname q1.4.1
+31;"Q1.4.1";".Ans1.4.1.a;.Ans1.4.1.b;.Ans1.4.1.c;.Ans1.4.1.d";a;1.4;"1.4";"1.4 Explain the importance of using appropriate cryptographic solutions.";"1";uname q1.4.1
 32;"Q1.4.2";".Ans1.4.2.a;.Ans1.4.2.b;.Ans1.4.2.c;.Ans1.4.2.d";a;1.4;"1.4";"1.4 DescriptionText";"1";uname q1.4.2
 33;"Q1.4.3";".Ans1.4.3.a;.Ans1.4.3.b;.Ans1.4.3.c;.Ans1.4.3.d";a;1.4;"1.4";"1.4 DescriptionText";"1";uname q1.4.3
 34;"Q1.4.4";".Ans1.4.4.a;.Ans1.4.4.b;.Ans1.4.4.c;.Ans1.4.4.d";a;1.4;"1.4";"1.4 DescriptionText";"1";uname q1.4.4
@@ -99,7 +99,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 98;"Q1.10.8";".Ans1.10.8.a;.Ans1.10.8.b;.Ans1.10.8.c;.Ans1.10.8.d";a;1.10;"1.10";"1.10 DescriptionText";"1";uname q1.10.8
 99;"Q1.10.9";".Ans1.10.9.a;.Ans1.10.9.b;.Ans1.10.9.c;.Ans1.10.9.d";a;1.10;"1.10";"1.10 DescriptionText";"1";uname q1.10.9
 100;"Q1.10.10";".Ans1.10.10.a;.Ans1.10.10.b;.Ans1.10.10.c;.Ans1.10.10.d";a;1.10;"1.10";"1.10 DescriptionText";"1";uname q1.10.10
-101;"Q2.1.1";".Ans2.1.1.a;.Ans2.1.1.b;.Ans2.1.1.c;.Ans2.1.1.d";a;2.1;"2.1";"2.1 DescriptionText";"2";uname q2.1.1
+101;"Q2.1.1";".Ans2.1.1.a;.Ans2.1.1.b;.Ans2.1.1.c;.Ans2.1.1.d";a;2.1;"2.1";"2.1 Compare and contrast common threat actors and motivations.";"2";uname q2.1.1
 102;"Q2.1.2";".Ans2.1.2.a;.Ans2.1.2.b;.Ans2.1.2.c;.Ans2.1.2.d";a;2.1;"2.1";"2.1 DescriptionText";"2";uname q2.1.2
 103;"Q2.1.3";".Ans2.1.3.a;.Ans2.1.3.b;.Ans2.1.3.c;.Ans2.1.3.d";a;2.1;"2.1";"2.1 DescriptionText";"2";uname q2.1.3
 104;"Q2.1.4";".Ans2.1.4.a;.Ans2.1.4.b;.Ans2.1.4.c;.Ans2.1.4.d";a;2.1;"2.1";"2.1 DescriptionText";"2";uname q2.1.4
@@ -109,7 +109,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 108;"Q2.1.8";".Ans2.1.8.a;.Ans2.1.8.b;.Ans2.1.8.c;.Ans2.1.8.d";a;2.1;"2.1";"2.1 DescriptionText";"2";uname q2.1.8
 109;"Q2.1.9";".Ans2.1.9.a;.Ans2.1.9.b;.Ans2.1.9.c;.Ans2.1.9.d";a;2.1;"2.1";"2.1 DescriptionText";"2";uname q2.1.9
 110;"Q2.1.10";".Ans2.1.10.a;.Ans2.1.10.b;.Ans2.1.10.c;.Ans2.1.10.d";a;2.1;"2.1";"2.1 DescriptionText";"2";uname q2.1.10
-111;"Q2.2.1";".Ans2.2.1.a;.Ans2.2.1.b;.Ans2.2.1.c;.Ans2.2.1.d";a;2.2;"2.2";"2.2 DescriptionText";"2";uname q2.2.1
+111;"Q2.2.1";".Ans2.2.1.a;.Ans2.2.1.b;.Ans2.2.1.c;.Ans2.2.1.d";a;2.2;"2.2";"2.2 Explain common threat vectors and attack surfaces.";"2";uname q2.2.1
 112;"Q2.2.2";".Ans2.2.2.a;.Ans2.2.2.b;.Ans2.2.2.c;.Ans2.2.2.d";a;2.2;"2.2";"2.2 DescriptionText";"2";uname q2.2.2
 113;"Q2.2.3";".Ans2.2.3.a;.Ans2.2.3.b;.Ans2.2.3.c;.Ans2.2.3.d";a;2.2;"2.2";"2.2 DescriptionText";"2";uname q2.2.3
 114;"Q2.2.4";".Ans2.2.4.a;.Ans2.2.4.b;.Ans2.2.4.c;.Ans2.2.4.d";a;2.2;"2.2";"2.2 DescriptionText";"2";uname q2.2.4
@@ -119,7 +119,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 118;"Q2.2.8";".Ans2.2.8.a;.Ans2.2.8.b;.Ans2.2.8.c;.Ans2.2.8.d";a;2.2;"2.2";"2.2 DescriptionText";"2";uname q2.2.8
 119;"Q2.2.9";".Ans2.2.9.a;.Ans2.2.9.b;.Ans2.2.9.c;.Ans2.2.9.d";a;2.2;"2.2";"2.2 DescriptionText";"2";uname q2.2.9
 120;"Q2.2.10";".Ans2.2.10.a;.Ans2.2.10.b;.Ans2.2.10.c;.Ans2.2.10.d";a;2.2;"2.2";"2.2 DescriptionText";"2";uname q2.2.10
-121;"Q2.3.1";".Ans2.3.1.a;.Ans2.3.1.b;.Ans2.3.1.c;.Ans2.3.1.d";a;2.3;"2.3";"2.3 DescriptionText";"2";uname q2.3.1
+121;"Q2.3.1";".Ans2.3.1.a;.Ans2.3.1.b;.Ans2.3.1.c;.Ans2.3.1.d";a;2.3;"2.3";"2.3 Explain various types of vulnerabilities.";"2";uname q2.3.1
 122;"Q2.3.2";".Ans2.3.2.a;.Ans2.3.2.b;.Ans2.3.2.c;.Ans2.3.2.d";a;2.3;"2.3";"2.3 DescriptionText";"2";uname q2.3.2
 123;"Q2.3.3";".Ans2.3.3.a;.Ans2.3.3.b;.Ans2.3.3.c;.Ans2.3.3.d";a;2.3;"2.3";"2.3 DescriptionText";"2";uname q2.3.3
 124;"Q2.3.4";".Ans2.3.4.a;.Ans2.3.4.b;.Ans2.3.4.c;.Ans2.3.4.d";a;2.3;"2.3";"2.3 DescriptionText";"2";uname q2.3.4
@@ -129,7 +129,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 128;"Q2.3.8";".Ans2.3.8.a;.Ans2.3.8.b;.Ans2.3.8.c;.Ans2.3.8.d";a;2.3;"2.3";"2.3 DescriptionText";"2";uname q2.3.8
 129;"Q2.3.9";".Ans2.3.9.a;.Ans2.3.9.b;.Ans2.3.9.c;.Ans2.3.9.d";a;2.3;"2.3";"2.3 DescriptionText";"2";uname q2.3.9
 130;"Q2.3.10";".Ans2.3.10.a;.Ans2.3.10.b;.Ans2.3.10.c;.Ans2.3.10.d";a;2.3;"2.3";"2.3 DescriptionText";"2";uname q2.3.10
-131;"Q2.4.1";".Ans2.4.1.a;.Ans2.4.1.b;.Ans2.4.1.c;.Ans2.4.1.d";a;2.4;"2.4";"2.4 DescriptionText";"2";uname q2.4.1
+131;"Q2.4.1";".Ans2.4.1.a;.Ans2.4.1.b;.Ans2.4.1.c;.Ans2.4.1.d";a;2.4;"2.4";"2.4 Given a scenario, analyze indicators of malicious activity.";"2";uname q2.4.1
 132;"Q2.4.2";".Ans2.4.2.a;.Ans2.4.2.b;.Ans2.4.2.c;.Ans2.4.2.d";a;2.4;"2.4";"2.4 DescriptionText";"2";uname q2.4.2
 133;"Q2.4.3";".Ans2.4.3.a;.Ans2.4.3.b;.Ans2.4.3.c;.Ans2.4.3.d";a;2.4;"2.4";"2.4 DescriptionText";"2";uname q2.4.3
 134;"Q2.4.4";".Ans2.4.4.a;.Ans2.4.4.b;.Ans2.4.4.c;.Ans2.4.4.d";a;2.4;"2.4";"2.4 DescriptionText";"2";uname q2.4.4
@@ -139,7 +139,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 138;"Q2.4.8";".Ans2.4.8.a;.Ans2.4.8.b;.Ans2.4.8.c;.Ans2.4.8.d";a;2.4;"2.4";"2.4 DescriptionText";"2";uname q2.4.8
 139;"Q2.4.9";".Ans2.4.9.a;.Ans2.4.9.b;.Ans2.4.9.c;.Ans2.4.9.d";a;2.4;"2.4";"2.4 DescriptionText";"2";uname q2.4.9
 140;"Q2.4.10";".Ans2.4.10.a;.Ans2.4.10.b;.Ans2.4.10.c;.Ans2.4.10.d";a;2.4;"2.4";"2.4 DescriptionText";"2";uname q2.4.10
-141;"Q2.5.1";".Ans2.5.1.a;.Ans2.5.1.b;.Ans2.5.1.c;.Ans2.5.1.d";a;2.5;"2.5";"2.5 DescriptionText";"2";uname q2.5.1
+141;"Q2.5.1";".Ans2.5.1.a;.Ans2.5.1.b;.Ans2.5.1.c;.Ans2.5.1.d";a;2.5;"2.5";"2.5 Explain the purpose of mitigation techniques used to secure the enterprise.";"2";uname q2.5.1
 142;"Q2.5.2";".Ans2.5.2.a;.Ans2.5.2.b;.Ans2.5.2.c;.Ans2.5.2.d";a;2.5;"2.5";"2.5 DescriptionText";"2";uname q2.5.2
 143;"Q2.5.3";".Ans2.5.3.a;.Ans2.5.3.b;.Ans2.5.3.c;.Ans2.5.3.d";a;2.5;"2.5";"2.5 DescriptionText";"2";uname q2.5.3
 144;"Q2.5.4";".Ans2.5.4.a;.Ans2.5.4.b;.Ans2.5.4.c;.Ans2.5.4.d";a;2.5;"2.5";"2.5 DescriptionText";"2";uname q2.5.4
@@ -199,7 +199,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 198;"Q2.10.8";".Ans2.10.8.a;.Ans2.10.8.b;.Ans2.10.8.c;.Ans2.10.8.d";a;2.10;"2.10";"2.10 DescriptionText";"2";uname q2.10.8
 199;"Q2.10.9";".Ans2.10.9.a;.Ans2.10.9.b;.Ans2.10.9.c;.Ans2.10.9.d";a;2.10;"2.10";"2.10 DescriptionText";"2";uname q2.10.9
 200;"Q2.10.10";".Ans2.10.10.a;.Ans2.10.10.b;.Ans2.10.10.c;.Ans2.10.10.d";a;2.10;"2.10";"2.10 DescriptionText";"2";uname q2.10.10
-201;"Q3.1.1";".Ans3.1.1.a;.Ans3.1.1.b;.Ans3.1.1.c;.Ans3.1.1.d";a;3.1;"3.1";"3.1 DescriptionText";"3";uname q3.1.1
+201;"Q3.1.1";".Ans3.1.1.a;.Ans3.1.1.b;.Ans3.1.1.c;.Ans3.1.1.d";a;3.1;"3.1";"3.1 Compare and contrast security implications of different architecture models.";"3";uname q3.1.1
 202;"Q3.1.2";".Ans3.1.2.a;.Ans3.1.2.b;.Ans3.1.2.c;.Ans3.1.2.d";a;3.1;"3.1";"3.1 DescriptionText";"3";uname q3.1.2
 203;"Q3.1.3";".Ans3.1.3.a;.Ans3.1.3.b;.Ans3.1.3.c;.Ans3.1.3.d";a;3.1;"3.1";"3.1 DescriptionText";"3";uname q3.1.3
 204;"Q3.1.4";".Ans3.1.4.a;.Ans3.1.4.b;.Ans3.1.4.c;.Ans3.1.4.d";a;3.1;"3.1";"3.1 DescriptionText";"3";uname q3.1.4
@@ -209,7 +209,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 208;"Q3.1.8";".Ans3.1.8.a;.Ans3.1.8.b;.Ans3.1.8.c;.Ans3.1.8.d";a;3.1;"3.1";"3.1 DescriptionText";"3";uname q3.1.8
 209;"Q3.1.9";".Ans3.1.9.a;.Ans3.1.9.b;.Ans3.1.9.c;.Ans3.1.9.d";a;3.1;"3.1";"3.1 DescriptionText";"3";uname q3.1.9
 210;"Q3.1.10";".Ans3.1.10.a;.Ans3.1.10.b;.Ans3.1.10.c;.Ans3.1.10.d";a;3.1;"3.1";"3.1 DescriptionText";"3";uname q3.1.10
-211;"Q3.2.1";".Ans3.2.1.a;.Ans3.2.1.b;.Ans3.2.1.c;.Ans3.2.1.d";a;3.2;"3.2";"3.2 DescriptionText";"3";uname q3.2.1
+211;"Q3.2.1";".Ans3.2.1.a;.Ans3.2.1.b;.Ans3.2.1.c;.Ans3.2.1.d";a;3.2;"3.2";"3.2 Given a scenario, apply security principles to secure enterprise infrastructure.";"3";uname q3.2.1
 212;"Q3.2.2";".Ans3.2.2.a;.Ans3.2.2.b;.Ans3.2.2.c;.Ans3.2.2.d";a;3.2;"3.2";"3.2 DescriptionText";"3";uname q3.2.2
 213;"Q3.2.3";".Ans3.2.3.a;.Ans3.2.3.b;.Ans3.2.3.c;.Ans3.2.3.d";a;3.2;"3.2";"3.2 DescriptionText";"3";uname q3.2.3
 214;"Q3.2.4";".Ans3.2.4.a;.Ans3.2.4.b;.Ans3.2.4.c;.Ans3.2.4.d";a;3.2;"3.2";"3.2 DescriptionText";"3";uname q3.2.4
@@ -219,7 +219,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 218;"Q3.2.8";".Ans3.2.8.a;.Ans3.2.8.b;.Ans3.2.8.c;.Ans3.2.8.d";a;3.2;"3.2";"3.2 DescriptionText";"3";uname q3.2.8
 219;"Q3.2.9";".Ans3.2.9.a;.Ans3.2.9.b;.Ans3.2.9.c;.Ans3.2.9.d";a;3.2;"3.2";"3.2 DescriptionText";"3";uname q3.2.9
 220;"Q3.2.10";".Ans3.2.10.a;.Ans3.2.10.b;.Ans3.2.10.c;.Ans3.2.10.d";a;3.2;"3.2";"3.2 DescriptionText";"3";uname q3.2.10
-221;"Q3.3.1";".Ans3.3.1.a;.Ans3.3.1.b;.Ans3.3.1.c;.Ans3.3.1.d";a;3.3;"3.3";"3.3 DescriptionText";"3";uname q3.3.1
+221;"Q3.3.1";".Ans3.3.1.a;.Ans3.3.1.b;.Ans3.3.1.c;.Ans3.3.1.d";a;3.3;"3.3";"3.3 Compare and contrast concepts and strategies to protect data.";"3";uname q3.3.1
 222;"Q3.3.2";".Ans3.3.2.a;.Ans3.3.2.b;.Ans3.3.2.c;.Ans3.3.2.d";a;3.3;"3.3";"3.3 DescriptionText";"3";uname q3.3.2
 223;"Q3.3.3";".Ans3.3.3.a;.Ans3.3.3.b;.Ans3.3.3.c;.Ans3.3.3.d";a;3.3;"3.3";"3.3 DescriptionText";"3";uname q3.3.3
 224;"Q3.3.4";".Ans3.3.4.a;.Ans3.3.4.b;.Ans3.3.4.c;.Ans3.3.4.d";a;3.3;"3.3";"3.3 DescriptionText";"3";uname q3.3.4
@@ -229,7 +229,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 228;"Q3.3.8";".Ans3.3.8.a;.Ans3.3.8.b;.Ans3.3.8.c;.Ans3.3.8.d";a;3.3;"3.3";"3.3 DescriptionText";"3";uname q3.3.8
 229;"Q3.3.9";".Ans3.3.9.a;.Ans3.3.9.b;.Ans3.3.9.c;.Ans3.3.9.d";a;3.3;"3.3";"3.3 DescriptionText";"3";uname q3.3.9
 230;"Q3.3.10";".Ans3.3.10.a;.Ans3.3.10.b;.Ans3.3.10.c;.Ans3.3.10.d";a;3.3;"3.3";"3.3 DescriptionText";"3";uname q3.3.10
-231;"Q3.4.1";".Ans3.4.1.a;.Ans3.4.1.b;.Ans3.4.1.c;.Ans3.4.1.d";a;3.4;"3.4";"3.4 DescriptionText";"3";uname q3.4.1
+231;"Q3.4.1";".Ans3.4.1.a;.Ans3.4.1.b;.Ans3.4.1.c;.Ans3.4.1.d";a;3.4;"3.4";"3.4 Explain the importance of resilience and recovery in security architecture.";"3";uname q3.4.1
 232;"Q3.4.2";".Ans3.4.2.a;.Ans3.4.2.b;.Ans3.4.2.c;.Ans3.4.2.d";a;3.4;"3.4";"3.4 DescriptionText";"3";uname q3.4.2
 233;"Q3.4.3";".Ans3.4.3.a;.Ans3.4.3.b;.Ans3.4.3.c;.Ans3.4.3.d";a;3.4;"3.4";"3.4 DescriptionText";"3";uname q3.4.3
 234;"Q3.4.4";".Ans3.4.4.a;.Ans3.4.4.b;.Ans3.4.4.c;.Ans3.4.4.d";a;3.4;"3.4";"3.4 DescriptionText";"3";uname q3.4.4
@@ -298,8 +298,8 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 297;"Q3.10.7";".Ans3.10.7.a;.Ans3.10.7.b;.Ans3.10.7.c;.Ans3.10.7.d";a;3.10;"3.10";"3.10 DescriptionText";"3";uname q3.10.7
 298;"Q3.10.8";".Ans3.10.8.a;.Ans3.10.8.b;.Ans3.10.8.c;.Ans3.10.8.d";a;3.10;"3.10";"3.10 DescriptionText";"3";uname q3.10.8
 299;"Q3.10.9";".Ans3.10.9.a;.Ans3.10.9.b;.Ans3.10.9.c;.Ans3.10.9.d";a;3.10;"3.10";"3.10 DescriptionText";"3";uname q3.10.9
-300;"Q3.10.10";".Ans3.10.10.a;.Ans3.10.10.b;.Ans3.10.10.c;.Ans3.10.10.d";a;3.10;"3.10";"3.10 DescriptionText";"3";uname q3.10.10
-301;"Q4.1.1";".Ans4.1.1.a;.Ans4.1.1.b;.Ans4.1.1.c;.Ans4.1.1.d";a;4.1;"4.1";"4.1 DescriptionText";"4";uname q4.1.1
+300;"Q3.10.10";".Ans3.10.10.a;.Ans3.10.10.b;.Ans3.10.10.c;.Ans3.10.10.d";a;3.10;D1.0 General Security Concepts 12%;3.10 DescriptionText;"3";uname q3.10.9
+301;"Q4.1.1";".Ans4.1.1.a;.Ans4.1.1.b;.Ans4.1.1.c;.Ans4.1.1.d";a;4.1;"4.1";"4.1 Given a scenario, apply common security techniques to computing resources.";"4";uname q4.1.1
 302;"Q4.1.2";".Ans4.1.2.a;.Ans4.1.2.b;.Ans4.1.2.c;.Ans4.1.2.d";a;4.1;"4.1";"4.1 DescriptionText";"4";uname q4.1.2
 303;"Q4.1.3";".Ans4.1.3.a;.Ans4.1.3.b;.Ans4.1.3.c;.Ans4.1.3.d";a;4.1;"4.1";"4.1 DescriptionText";"4";uname q4.1.3
 304;"Q4.1.4";".Ans4.1.4.a;.Ans4.1.4.b;.Ans4.1.4.c;.Ans4.1.4.d";a;4.1;"4.1";"4.1 DescriptionText";"4";uname q4.1.4
@@ -309,7 +309,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 308;"Q4.1.8";".Ans4.1.8.a;.Ans4.1.8.b;.Ans4.1.8.c;.Ans4.1.8.d";a;4.1;"4.1";"4.1 DescriptionText";"4";uname q4.1.8
 309;"Q4.1.9";".Ans4.1.9.a;.Ans4.1.9.b;.Ans4.1.9.c;.Ans4.1.9.d";a;4.1;"4.1";"4.1 DescriptionText";"4";uname q4.1.9
 310;"Q4.1.10";".Ans4.1.10.a;.Ans4.1.10.b;.Ans4.1.10.c;.Ans4.1.10.d";a;4.1;"4.1";"4.1 DescriptionText";"4";uname q4.1.10
-311;"Q4.2.1";".Ans4.2.1.a;.Ans4.2.1.b;.Ans4.2.1.c;.Ans4.2.1.d";a;4.2;"4.2";"4.2 DescriptionText";"4";uname q4.2.1
+311;"Q4.2.1";".Ans4.2.1.a;.Ans4.2.1.b;.Ans4.2.1.c;.Ans4.2.1.d";a;4.2;"4.2";"4.2 Explain the security implications of proper hardware, software, and data asset management.";"4";uname q4.2.1
 312;"Q4.2.2";".Ans4.2.2.a;.Ans4.2.2.b;.Ans4.2.2.c;.Ans4.2.2.d";a;4.2;"4.2";"4.2 DescriptionText";"4";uname q4.2.2
 313;"Q4.2.3";".Ans4.2.3.a;.Ans4.2.3.b;.Ans4.2.3.c;.Ans4.2.3.d";a;4.2;"4.2";"4.2 DescriptionText";"4";uname q4.2.3
 314;"Q4.2.4";".Ans4.2.4.a;.Ans4.2.4.b;.Ans4.2.4.c;.Ans4.2.4.d";a;4.2;"4.2";"4.2 DescriptionText";"4";uname q4.2.4
@@ -319,7 +319,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 318;"Q4.2.8";".Ans4.2.8.a;.Ans4.2.8.b;.Ans4.2.8.c;.Ans4.2.8.d";a;4.2;"4.2";"4.2 DescriptionText";"4";uname q4.2.8
 319;"Q4.2.9";".Ans4.2.9.a;.Ans4.2.9.b;.Ans4.2.9.c;.Ans4.2.9.d";a;4.2;"4.2";"4.2 DescriptionText";"4";uname q4.2.9
 320;"Q4.2.10";".Ans4.2.10.a;.Ans4.2.10.b;.Ans4.2.10.c;.Ans4.2.10.d";a;4.2;"4.2";"4.2 DescriptionText";"4";uname q4.2.10
-321;"Q4.3.1";".Ans4.3.1.a;.Ans4.3.1.b;.Ans4.3.1.c;.Ans4.3.1.d";a;4.3;"4.3";"4.3 DescriptionText";"4";uname q4.3.1
+321;"Q4.3.1";".Ans4.3.1.a;.Ans4.3.1.b;.Ans4.3.1.c;.Ans4.3.1.d";a;4.3;"4.3";"4.3 Explain various activities associated with vulnerability management.";"4";uname q4.3.1
 322;"Q4.3.2";".Ans4.3.2.a;.Ans4.3.2.b;.Ans4.3.2.c;.Ans4.3.2.d";a;4.3;"4.3";"4.3 DescriptionText";"4";uname q4.3.2
 323;"Q4.3.3";".Ans4.3.3.a;.Ans4.3.3.b;.Ans4.3.3.c;.Ans4.3.3.d";a;4.3;"4.3";"4.3 DescriptionText";"4";uname q4.3.3
 324;"Q4.3.4";".Ans4.3.4.a;.Ans4.3.4.b;.Ans4.3.4.c;.Ans4.3.4.d";a;4.3;"4.3";"4.3 DescriptionText";"4";uname q4.3.4
@@ -329,7 +329,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 328;"Q4.3.8";".Ans4.3.8.a;.Ans4.3.8.b;.Ans4.3.8.c;.Ans4.3.8.d";a;4.3;"4.3";"4.3 DescriptionText";"4";uname q4.3.8
 329;"Q4.3.9";".Ans4.3.9.a;.Ans4.3.9.b;.Ans4.3.9.c;.Ans4.3.9.d";a;4.3;"4.3";"4.3 DescriptionText";"4";uname q4.3.9
 330;"Q4.3.10";".Ans4.3.10.a;.Ans4.3.10.b;.Ans4.3.10.c;.Ans4.3.10.d";a;4.3;"4.3";"4.3 DescriptionText";"4";uname q4.3.10
-331;"Q4.4.1";".Ans4.4.1.a;.Ans4.4.1.b;.Ans4.4.1.c;.Ans4.4.1.d";a;4.4;"4.4";"4.4 DescriptionText";"4";uname q4.4.1
+331;"Q4.4.1";".Ans4.4.1.a;.Ans4.4.1.b;.Ans4.4.1.c;.Ans4.4.1.d";a;4.4;"4.4";"4.4 Explain security alerting and monitoring concepts and tools.";"4";uname q4.4.1
 332;"Q4.4.2";".Ans4.4.2.a;.Ans4.4.2.b;.Ans4.4.2.c;.Ans4.4.2.d";a;4.4;"4.4";"4.4 DescriptionText";"4";uname q4.4.2
 333;"Q4.4.3";".Ans4.4.3.a;.Ans4.4.3.b;.Ans4.4.3.c;.Ans4.4.3.d";a;4.4;"4.4";"4.4 DescriptionText";"4";uname q4.4.3
 334;"Q4.4.4";".Ans4.4.4.a;.Ans4.4.4.b;.Ans4.4.4.c;.Ans4.4.4.d";a;4.4;"4.4";"4.4 DescriptionText";"4";uname q4.4.4
@@ -339,7 +339,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 338;"Q4.4.8";".Ans4.4.8.a;.Ans4.4.8.b;.Ans4.4.8.c;.Ans4.4.8.d";a;4.4;"4.4";"4.4 DescriptionText";"4";uname q4.4.8
 339;"Q4.4.9";".Ans4.4.9.a;.Ans4.4.9.b;.Ans4.4.9.c;.Ans4.4.9.d";a;4.4;"4.4";"4.4 DescriptionText";"4";uname q4.4.9
 340;"Q4.4.10";".Ans4.4.10.a;.Ans4.4.10.b;.Ans4.4.10.c;.Ans4.4.10.d";a;4.4;"4.4";"4.4 DescriptionText";"4";uname q4.4.10
-341;"Q4.5.1";".Ans4.5.1.a;.Ans4.5.1.b;.Ans4.5.1.c;.Ans4.5.1.d";a;4.5;"4.5";"4.5 DescriptionText";"4";uname q4.5.1
+341;"Q4.5.1";".Ans4.5.1.a;.Ans4.5.1.b;.Ans4.5.1.c;.Ans4.5.1.d";a;4.5;"4.5";"4.5 Given a scenario, modify enterprise capabilities to enhance security.";"4";uname q4.5.1
 342;"Q4.5.2";".Ans4.5.2.a;.Ans4.5.2.b;.Ans4.5.2.c;.Ans4.5.2.d";a;4.5;"4.5";"4.5 DescriptionText";"4";uname q4.5.2
 343;"Q4.5.3";".Ans4.5.3.a;.Ans4.5.3.b;.Ans4.5.3.c;.Ans4.5.3.d";a;4.5;"4.5";"4.5 DescriptionText";"4";uname q4.5.3
 344;"Q4.5.4";".Ans4.5.4.a;.Ans4.5.4.b;.Ans4.5.4.c;.Ans4.5.4.d";a;4.5;"4.5";"4.5 DescriptionText";"4";uname q4.5.4
@@ -349,7 +349,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 348;"Q4.5.8";".Ans4.5.8.a;.Ans4.5.8.b;.Ans4.5.8.c;.Ans4.5.8.d";a;4.5;"4.5";"4.5 DescriptionText";"4";uname q4.5.8
 349;"Q4.5.9";".Ans4.5.9.a;.Ans4.5.9.b;.Ans4.5.9.c;.Ans4.5.9.d";a;4.5;"4.5";"4.5 DescriptionText";"4";uname q4.5.9
 350;"Q4.5.10";".Ans4.5.10.a;.Ans4.5.10.b;.Ans4.5.10.c;.Ans4.5.10.d";a;4.5;"4.5";"4.5 DescriptionText";"4";uname q4.5.10
-351;"Q4.6.1";".Ans4.6.1.a;.Ans4.6.1.b;.Ans4.6.1.c;.Ans4.6.1.d";a;4.6;"4.6";"4.6 DescriptionText";"4";uname q4.6.1
+351;"Q4.6.1";".Ans4.6.1.a;.Ans4.6.1.b;.Ans4.6.1.c;.Ans4.6.1.d";a;4.6;"4.6";"4.6 Given a scenario, implement and maintain identity and access management.";"4";uname q4.6.1
 352;"Q4.6.2";".Ans4.6.2.a;.Ans4.6.2.b;.Ans4.6.2.c;.Ans4.6.2.d";a;4.6;"4.6";"4.6 DescriptionText";"4";uname q4.6.2
 353;"Q4.6.3";".Ans4.6.3.a;.Ans4.6.3.b;.Ans4.6.3.c;.Ans4.6.3.d";a;4.6;"4.6";"4.6 DescriptionText";"4";uname q4.6.3
 354;"Q4.6.4";".Ans4.6.4.a;.Ans4.6.4.b;.Ans4.6.4.c;.Ans4.6.4.d";a;4.6;"4.6";"4.6 DescriptionText";"4";uname q4.6.4
@@ -359,7 +359,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 358;"Q4.6.8";".Ans4.6.8.a;.Ans4.6.8.b;.Ans4.6.8.c;.Ans4.6.8.d";a;4.6;"4.6";"4.6 DescriptionText";"4";uname q4.6.8
 359;"Q4.6.9";".Ans4.6.9.a;.Ans4.6.9.b;.Ans4.6.9.c;.Ans4.6.9.d";a;4.6;"4.6";"4.6 DescriptionText";"4";uname q4.6.9
 360;"Q4.6.10";".Ans4.6.10.a;.Ans4.6.10.b;.Ans4.6.10.c;.Ans4.6.10.d";a;4.6;"4.6";"4.6 DescriptionText";"4";uname q4.6.10
-361;"Q4.7.1";".Ans4.7.1.a;.Ans4.7.1.b;.Ans4.7.1.c;.Ans4.7.1.d";a;4.7;"4.7";"4.7 DescriptionText";"4";uname q4.7.1
+361;"Q4.7.1";".Ans4.7.1.a;.Ans4.7.1.b;.Ans4.7.1.c;.Ans4.7.1.d";a;4.7;"4.7";"4.7 Explain the importance of automation and orchestration related to secure operations.";"4";uname q4.7.1
 362;"Q4.7.2";".Ans4.7.2.a;.Ans4.7.2.b;.Ans4.7.2.c;.Ans4.7.2.d";a;4.7;"4.7";"4.7 DescriptionText";"4";uname q4.7.2
 363;"Q4.7.3";".Ans4.7.3.a;.Ans4.7.3.b;.Ans4.7.3.c;.Ans4.7.3.d";a;4.7;"4.7";"4.7 DescriptionText";"4";uname q4.7.3
 364;"Q4.7.4";".Ans4.7.4.a;.Ans4.7.4.b;.Ans4.7.4.c;.Ans4.7.4.d";a;4.7;"4.7";"4.7 DescriptionText";"4";uname q4.7.4
@@ -369,7 +369,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 368;"Q4.7.8";".Ans4.7.8.a;.Ans4.7.8.b;.Ans4.7.8.c;.Ans4.7.8.d";a;4.7;"4.7";"4.7 DescriptionText";"4";uname q4.7.8
 369;"Q4.7.9";".Ans4.7.9.a;.Ans4.7.9.b;.Ans4.7.9.c;.Ans4.7.9.d";a;4.7;"4.7";"4.7 DescriptionText";"4";uname q4.7.9
 370;"Q4.7.10";".Ans4.7.10.a;.Ans4.7.10.b;.Ans4.7.10.c;.Ans4.7.10.d";a;4.7;"4.7";"4.7 DescriptionText";"4";uname q4.7.10
-371;"Q4.8.1";".Ans4.8.1.a;.Ans4.8.1.b;.Ans4.8.1.c;.Ans4.8.1.d";a;4.8;"4.8";"4.8 DescriptionText";"4";uname q4.8.1
+371;"Q4.8.1";".Ans4.8.1.a;.Ans4.8.1.b;.Ans4.8.1.c;.Ans4.8.1.d";a;4.8;"4.8";"4.8 Explain appropriate incident response activities.";"4";uname q4.8.1
 372;"Q4.8.2";".Ans4.8.2.a;.Ans4.8.2.b;.Ans4.8.2.c;.Ans4.8.2.d";a;4.8;"4.8";"4.8 DescriptionText";"4";uname q4.8.2
 373;"Q4.8.3";".Ans4.8.3.a;.Ans4.8.3.b;.Ans4.8.3.c;.Ans4.8.3.d";a;4.8;"4.8";"4.8 DescriptionText";"4";uname q4.8.3
 374;"Q4.8.4";".Ans4.8.4.a;.Ans4.8.4.b;.Ans4.8.4.c;.Ans4.8.4.d";a;4.8;"4.8";"4.8 DescriptionText";"4";uname q4.8.4
@@ -379,7 +379,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 378;"Q4.8.8";".Ans4.8.8.a;.Ans4.8.8.b;.Ans4.8.8.c;.Ans4.8.8.d";a;4.8;"4.8";"4.8 DescriptionText";"4";uname q4.8.8
 379;"Q4.8.9";".Ans4.8.9.a;.Ans4.8.9.b;.Ans4.8.9.c;.Ans4.8.9.d";a;4.8;"4.8";"4.8 DescriptionText";"4";uname q4.8.9
 380;"Q4.8.10";".Ans4.8.10.a;.Ans4.8.10.b;.Ans4.8.10.c;.Ans4.8.10.d";a;4.8;"4.8";"4.8 DescriptionText";"4";uname q4.8.10
-381;"Q4.9.1";".Ans4.9.1.a;.Ans4.9.1.b;.Ans4.9.1.c;.Ans4.9.1.d";a;4.9;"4.9";"4.9 DescriptionText";"4";uname q4.9.1
+381;"Q4.9.1";".Ans4.9.1.a;.Ans4.9.1.b;.Ans4.9.1.c;.Ans4.9.1.d";a;4.9;"4.9";"4.9 Given a scenario, use data sources to support an investigation.";"4";uname q4.9.1
 382;"Q4.9.2";".Ans4.9.2.a;.Ans4.9.2.b;.Ans4.9.2.c;.Ans4.9.2.d";a;4.9;"4.9";"4.9 DescriptionText";"4";uname q4.9.2
 383;"Q4.9.3";".Ans4.9.3.a;.Ans4.9.3.b;.Ans4.9.3.c;.Ans4.9.3.d";a;4.9;"4.9";"4.9 DescriptionText";"4";uname q4.9.3
 384;"Q4.9.4";".Ans4.9.4.a;.Ans4.9.4.b;.Ans4.9.4.c;.Ans4.9.4.d";a;4.9;"4.9";"4.9 DescriptionText";"4";uname q4.9.4
@@ -399,7 +399,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 398;"Q4.10.8";".Ans4.10.8.a;.Ans4.10.8.b;.Ans4.10.8.c;.Ans4.10.8.d";a;4.10;"4.10";"4.10 DescriptionText";"4";uname q4.10.8
 399;"Q4.10.9";".Ans4.10.9.a;.Ans4.10.9.b;.Ans4.10.9.c;.Ans4.10.9.d";a;4.10;"4.10";"4.10 DescriptionText";"4";uname q4.10.9
 400;"Q4.10.10";".Ans4.10.10.a;.Ans4.10.10.b;.Ans4.10.10.c;.Ans4.10.10.d";a;4.10;"4.10";"4.10 DescriptionText";"4";uname q4.10.10
-401;"Q5.1.1";".Ans5.1.1.a;.Ans5.1.1.b;.Ans5.1.1.c;.Ans5.1.1.d";a;5.1;"5.1";"5.1 DescriptionText";"5";uname q5.1.1
+401;"Q5.1.1";".Ans5.1.1.a;.Ans5.1.1.b;.Ans5.1.1.c;.Ans5.1.1.d";a;5.1;"5.1";"5.1 Summarize elements of effective security governance.";"5";uname q5.1.1
 402;"Q5.1.2";".Ans5.1.2.a;.Ans5.1.2.b;.Ans5.1.2.c;.Ans5.1.2.d";a;5.1;"5.1";"5.1 DescriptionText";"5";uname q5.1.2
 403;"Q5.1.3";".Ans5.1.3.a;.Ans5.1.3.b;.Ans5.1.3.c;.Ans5.1.3.d";a;5.1;"5.1";"5.1 DescriptionText";"5";uname q5.1.3
 404;"Q5.1.4";".Ans5.1.4.a;.Ans5.1.4.b;.Ans5.1.4.c;.Ans5.1.4.d";a;5.1;"5.1";"5.1 DescriptionText";"5";uname q5.1.4
@@ -409,7 +409,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 408;"Q5.1.8";".Ans5.1.8.a;.Ans5.1.8.b;.Ans5.1.8.c;.Ans5.1.8.d";a;5.1;"5.1";"5.1 DescriptionText";"5";uname q5.1.8
 409;"Q5.1.9";".Ans5.1.9.a;.Ans5.1.9.b;.Ans5.1.9.c;.Ans5.1.9.d";a;5.1;"5.1";"5.1 DescriptionText";"5";uname q5.1.9
 410;"Q5.1.10";".Ans5.1.10.a;.Ans5.1.10.b;.Ans5.1.10.c;.Ans5.1.10.d";a;5.1;"5.1";"5.1 DescriptionText";"5";uname q5.1.10
-411;"Q5.2.1";".Ans5.2.1.a;.Ans5.2.1.b;.Ans5.2.1.c;.Ans5.2.1.d";a;5.2;"5.2";"5.2 DescriptionText";"5";uname q5.2.1
+411;"Q5.2.1";".Ans5.2.1.a;.Ans5.2.1.b;.Ans5.2.1.c;.Ans5.2.1.d";a;5.2;"5.2";"5.2 Explain elements of the risk management process.";"5";uname q5.2.1
 412;"Q5.2.2";".Ans5.2.2.a;.Ans5.2.2.b;.Ans5.2.2.c;.Ans5.2.2.d";a;5.2;"5.2";"5.2 DescriptionText";"5";uname q5.2.2
 413;"Q5.2.3";".Ans5.2.3.a;.Ans5.2.3.b;.Ans5.2.3.c;.Ans5.2.3.d";a;5.2;"5.2";"5.2 DescriptionText";"5";uname q5.2.3
 414;"Q5.2.4";".Ans5.2.4.a;.Ans5.2.4.b;.Ans5.2.4.c;.Ans5.2.4.d";a;5.2;"5.2";"5.2 DescriptionText";"5";uname q5.2.4
@@ -419,7 +419,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 418;"Q5.2.8";".Ans5.2.8.a;.Ans5.2.8.b;.Ans5.2.8.c;.Ans5.2.8.d";a;5.2;"5.2";"5.2 DescriptionText";"5";uname q5.2.8
 419;"Q5.2.9";".Ans5.2.9.a;.Ans5.2.9.b;.Ans5.2.9.c;.Ans5.2.9.d";a;5.2;"5.2";"5.2 DescriptionText";"5";uname q5.2.9
 420;"Q5.2.10";".Ans5.2.10.a;.Ans5.2.10.b;.Ans5.2.10.c;.Ans5.2.10.d";a;5.2;"5.2";"5.2 DescriptionText";"5";uname q5.2.10
-421;"Q5.3.1";".Ans5.3.1.a;.Ans5.3.1.b;.Ans5.3.1.c;.Ans5.3.1.d";a;5.3;"5.3";"5.3 DescriptionText";"5";uname q5.3.1
+421;"Q5.3.1";".Ans5.3.1.a;.Ans5.3.1.b;.Ans5.3.1.c;.Ans5.3.1.d";a;5.3;"5.3";"5.3 Explain the processes associated with third-party risk assessment and management.";"5";uname q5.3.1
 422;"Q5.3.2";".Ans5.3.2.a;.Ans5.3.2.b;.Ans5.3.2.c;.Ans5.3.2.d";a;5.3;"5.3";"5.3 DescriptionText";"5";uname q5.3.2
 423;"Q5.3.3";".Ans5.3.3.a;.Ans5.3.3.b;.Ans5.3.3.c;.Ans5.3.3.d";a;5.3;"5.3";"5.3 DescriptionText";"5";uname q5.3.3
 424;"Q5.3.4";".Ans5.3.4.a;.Ans5.3.4.b;.Ans5.3.4.c;.Ans5.3.4.d";a;5.3;"5.3";"5.3 DescriptionText";"5";uname q5.3.4
@@ -429,7 +429,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 428;"Q5.3.8";".Ans5.3.8.a;.Ans5.3.8.b;.Ans5.3.8.c;.Ans5.3.8.d";a;5.3;"5.3";"5.3 DescriptionText";"5";uname q5.3.8
 429;"Q5.3.9";".Ans5.3.9.a;.Ans5.3.9.b;.Ans5.3.9.c;.Ans5.3.9.d";a;5.3;"5.3";"5.3 DescriptionText";"5";uname q5.3.9
 430;"Q5.3.10";".Ans5.3.10.a;.Ans5.3.10.b;.Ans5.3.10.c;.Ans5.3.10.d";a;5.3;"5.3";"5.3 DescriptionText";"5";uname q5.3.10
-431;"Q5.4.1";".Ans5.4.1.a;.Ans5.4.1.b;.Ans5.4.1.c;.Ans5.4.1.d";a;5.4;"5.4";"5.4 DescriptionText";"5";uname q5.4.1
+431;"Q5.4.1";".Ans5.4.1.a;.Ans5.4.1.b;.Ans5.4.1.c;.Ans5.4.1.d";a;5.4;"5.4";"5.4 Summarize elements of effective security compliance.";"5";uname q5.4.1
 432;"Q5.4.2";".Ans5.4.2.a;.Ans5.4.2.b;.Ans5.4.2.c;.Ans5.4.2.d";a;5.4;"5.4";"5.4 DescriptionText";"5";uname q5.4.2
 433;"Q5.4.3";".Ans5.4.3.a;.Ans5.4.3.b;.Ans5.4.3.c;.Ans5.4.3.d";a;5.4;"5.4";"5.4 DescriptionText";"5";uname q5.4.3
 434;"Q5.4.4";".Ans5.4.4.a;.Ans5.4.4.b;.Ans5.4.4.c;.Ans5.4.4.d";a;5.4;"5.4";"5.4 DescriptionText";"5";uname q5.4.4
@@ -439,7 +439,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 438;"Q5.4.8";".Ans5.4.8.a;.Ans5.4.8.b;.Ans5.4.8.c;.Ans5.4.8.d";a;5.4;"5.4";"5.4 DescriptionText";"5";uname q5.4.8
 439;"Q5.4.9";".Ans5.4.9.a;.Ans5.4.9.b;.Ans5.4.9.c;.Ans5.4.9.d";a;5.4;"5.4";"5.4 DescriptionText";"5";uname q5.4.9
 440;"Q5.4.10";".Ans5.4.10.a;.Ans5.4.10.b;.Ans5.4.10.c;.Ans5.4.10.d";a;5.4;"5.4";"5.4 DescriptionText";"5";uname q5.4.10
-441;"Q5.5.1";".Ans5.5.1.a;.Ans5.5.1.b;.Ans5.5.1.c;.Ans5.5.1.d";a;5.5;"5.5";"5.5 DescriptionText";"5";uname q5.5.1
+441;"Q5.5.1";".Ans5.5.1.a;.Ans5.5.1.b;.Ans5.5.1.c;.Ans5.5.1.d";a;5.5;"5.5";"5.5 Explain types and purposes of audits and assessments.";"5";uname q5.5.1
 442;"Q5.5.2";".Ans5.5.2.a;.Ans5.5.2.b;.Ans5.5.2.c;.Ans5.5.2.d";a;5.5;"5.5";"5.5 DescriptionText";"5";uname q5.5.2
 443;"Q5.5.3";".Ans5.5.3.a;.Ans5.5.3.b;.Ans5.5.3.c;.Ans5.5.3.d";a;5.5;"5.5";"5.5 DescriptionText";"5";uname q5.5.3
 444;"Q5.5.4";".Ans5.5.4.a;.Ans5.5.4.b;.Ans5.5.4.c;.Ans5.5.4.d";a;5.5;"5.5";"5.5 DescriptionText";"5";uname q5.5.4
@@ -449,7 +449,7 @@ num;question;a;b;c;d;solution;area_code;area;theme;image:Tags
 448;"Q5.5.8";".Ans5.5.8.a;.Ans5.5.8.b;.Ans5.5.8.c;.Ans5.5.8.d";a;5.5;"5.5";"5.5 DescriptionText";"5";uname q5.5.8
 449;"Q5.5.9";".Ans5.5.9.a;.Ans5.5.9.b;.Ans5.5.9.c;.Ans5.5.9.d";a;5.5;"5.5";"5.5 DescriptionText";"5";uname q5.5.9
 450;"Q5.5.10";".Ans5.5.10.a;.Ans5.5.10.b;.Ans5.5.10.c;.Ans5.5.10.d";a;5.5;"5.5";"5.5 DescriptionText";"5";uname q5.5.10
-451;"Q5.6.1";".Ans5.6.1.a;.Ans5.6.1.b;.Ans5.6.1.c;.Ans5.6.1.d";a;5.6;"5.6";"5.6 DescriptionText";"5";uname q5.6.1
+451;"Q5.6.1";".Ans5.6.1.a;.Ans5.6.1.b;.Ans5.6.1.c;.Ans5.6.1.d";a;5.6;"5.6";"5.6 Given a scenario, implement security awareness practices.";"5";uname q5.6.1
 452;"Q5.6.2";".Ans5.6.2.a;.Ans5.6.2.b;.Ans5.6.2.c;.Ans5.6.2.d";a;5.6;"5.6";"5.6 DescriptionText";"5";uname q5.6.2
 453;"Q5.6.3";".Ans5.6.3.a;.Ans5.6.3.b;.Ans5.6.3.c;.Ans5.6.3.d";a;5.6;"5.6";"5.6 DescriptionText";"5";uname q5.6.3
 454;"Q5.6.4";".Ans5.6.4.a;.Ans5.6.4.b;.Ans5.6.4.c;.Ans5.6.4.d";a;5.6;"5.6";"5.6 DescriptionText";"5";uname q5.6.4
@@ -515,7 +515,7 @@ BE-3;Für wie viele Jahre wird das Landesparlament in Berlin gewählt?;3;4;5;6;c
 BE-4;Ab welchem Alter darf man in Berlin bei Kommunalwahlen (Wahl der Bezirksverordnetenversammlung) wählen?;14;16;18;20;b;land;Bundesland;Berlin;-;
 BE-5;Welche Farben hat die Landesflagge von Berlin?;blau-weiß-rot;weiß-rot;grün-weiß-rot;schwarz-gold;b;land;Bundesland;Berlin;-;
 BE-6;Wo können Sie sich in Berlin über politische Themen informieren?;beim Ordnungsamt der Gemeinde;bei den Kirchen;bei der Verbraucherzentrale;bei der Landeszentrale für politische Bildung;d;land;Bundesland;Berlin;-;
-BE-7;Welches Bundesland ist ein Stadtstaat?;Berlin;Saarland;Brandenburg;Hessen;a;land;Bundesland;Berlin;-;
+BE-7;Welches Bundesland ist ein Stadtstaat?;Berlin;Saarland;Brandenburg;Domain 2;a;land;Bundesland;Berlin;-;
 BE-8;Welches Bundesland ist Berlin?;1;2;3;4;d;land;Bundesland;Berlin;frage_be_8;image
 BE-9;Wie nennt man den Regierungschef / die Regierungschefin des Stadtstaates Berlin?;Ministerpräsident / Ministerpräsidentin;Oberbürgermeister / Oberbürgermeisterin;Präsident / Präsidentin des Senats;Regierender Bürgermeister / Regierende Bürgermeisterin;d;land;Bundesland;Berlin;-;
 BE-10;Welchen Senator / welche Senatorin hat Berlin nicht?;Finanzsenator / Finanzsenatorin;Innensenator / Innensenatorin;Senator / Senatorin für Außenbeziehungen;Justizsenator / Justizsenatorin;c;land;Bundesland;Berlin;-;
@@ -549,16 +549,17 @@ HB-7;Was ist ein deutscher Stadtstaat?;Bremen;München;Frankfurt;Erfurt;a;land;B
 HB-8;Welches Bundesland ist Bremen?;1;2;3;4;a;land;Bundesland;Bremen;frage_hb_8;image
 HB-9;Wie nennt man den Regierungschef / die Regierungschefin des Stadtstaates Bremen?;Ministerpräsident / Ministerpräsidentin;Erster Bürgermeister / Erste Bürgermeisterin;Präsident / Präsidentin des Senats;Regierender Bürgermeister / Regierende Bürgermeisterin;c;land;Bundesland;Bremen;-;
 HB-10;Welchen Senator / welche Senatorin hat Bremen nicht?;Senator / Senatorin für Außenbeziehungen;Finanzsenator / Finanzsenatorin;Justizsenator / Justizsenatorin;Innensenator / Innensenatorin;a;land;Bundesland;Bremen;-;
-HE-1;Welches Wappen gehört zum Bundesland Hessen?;1;2;3;4;a;land;Bundesland;Hessen;frage_he_1;image
-HE-2;Welches ist ein Landkreis in Hessen?;Ammerland;Altötting;Prignitz;Main-Taunus-Kreis;d;land;Bundesland;Hessen;-;
-HE-3;Für wie viele Jahre wird der Landtag in Hessen gewählt?;3;4;5;6;c;land;Bundesland;Hessen;-;
-HE-4;Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?;14;16;18;20;c;land;Bundesland;Hessen;-;
-HE-5;Welche Farben hat die Landesflagge von Hessen?;blau-weiß-rot;rot-weiß;schwarz-gold;grün-weiß-rot;b;land;Bundesland;Hessen;-;
-HE-6;Wo können Sie sich in Hessen über politische Themen informieren?;bei der Landeszentrale für politische Bildung;bei der Verbraucherzentrale;beim Ordnungsamt der Gemeinde;bei den Kirchen;a;land;Bundesland;Hessen;-;
-HE-7;Die Landeshauptstadt von Hessen heißt ...;Kassel.;Darmstadt.;Frankfurt.;Wiesbaden.;d;land;Bundesland;Hessen;-;
-HE-8;Welches Bundesland ist Hessen?;1;2;3;4;c;land;Bundesland;Hessen;frage_he_8;image
-HE-9;Wie nennt man den Regierungschef / die Regierungschefin in Hessen?;Erster Minister / Erste Ministerin;Premierminister / Premierministerin;Bürgermeister / Bürgermeisterin;Ministerpräsident / Ministerpräsidentin;d;land;Bundesland;Hessen;-;
-HE-10;Welchen Minister / welche Ministerin hat Hessen nicht?;Justizminister / Justizministerin;Außenminister / Außenministerin;Finanzminister / Finanzministerin;Innenminister / Innenministerin;b;land;Bundesland;Hessen;-;
+D2-1;Welches Wappen gehört zum Bundesland Hessen?;1;2;3;4;a;land;Bundesland;Domain 2;frage_he_1;image
+D2-2;Welches ist ein Landkreis in Hessen?;Ammerland;Altötting;Prignitz;Main-Taunus-Kreis;d;land;Bundesland;Domain 2;-;
+D2-3;Für wie viele Jahre wird der Landtag in Hessen gewählt?;3;4;5;6;c;land;Bundesland;Domain 2;-;
+D2-4;Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?;14;16;18;20;c;land;Bundesland;Domain 2;-;
+D2-5;Welche Farben hat die Landesflagge von Hessen?;blau-weiß-rot;rot-weiß;schwarz-gold;grün-weiß-rot;b;land;Bundesland;Domain 2;-;
+D2-6;Wo können Sie sich in Hessen über politische Themen informieren?;bei der Landeszentrale für politische Bildung;bei der Verbraucherzentrale;beim Ordnungsamt der Gemeinde;bei den Kirchen;a;land;Bundesland;Domain 2;-;
+D2-7;Die Landeshauptstadt von Hessen heißt ...;Kassel.;Darmstadt.;Frankfurt.;Wiesbaden.;d;land;Bundesland;Domain 2;-;
+D2-8;Welches Bundesland ist Hessen?;1;2;3;4;c;land;Bundesland;Domain 2;frage_he_8;image
+D2-9;Wie nennt man den Regierungschef / die Regierungschefin in Hessen?;Erster Minister / Erste Ministerin;Premierminister / Premierministerin;Bürgermeister / Bürgermeisterin;Ministerpräsident / Ministerpräsidentin;d;land;Bundesland;Domain 2;-;
+D2-10;Welchen Minister / welche Ministerin hat Hessen nicht?;Justizminister / Justizministerin;Außenminister / Außenministerin;Finanzminister / Finanzministerin;Innenminister / Innenministerin;b;land;Bundesland;Domain 2;-;
+D2-11;Welchen Minister / welche Ministerin hat Hessen nicht?;Justizminister / Justizministerin;Außenminister / Außenministerin;Finanzminister / Finanzministerin;Innenminister / Innenministerin;b;land;Bundesland;Domain 2;-;
 HH-1;Welches Wappen gehört zur Freien und Hansestadt Hamburg?;1;2;3;4;b;land;Bundesland;Hamburg;frage_hh_1;image
 HH-2;Welches ist ein Bezirk von Hamburg?;Altona;Hemelingen;Pankow;Mecklenburgische Seenplatte;a;land;Bundesland;Hamburg;-;
 HH-3;Für wie viele Jahre wird das Landesparlament in Hamburg gewählt?;3;4;5;6;c;land;Bundesland;Hamburg;-;
